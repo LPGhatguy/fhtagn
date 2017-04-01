@@ -1,0 +1,3 @@
+# Write a chant five times
+^$ \\ ~~~~~\0 \\
+^~(~*?\0[\s\S]*) \\ $1Cthulhu fhtagn!\n \\
