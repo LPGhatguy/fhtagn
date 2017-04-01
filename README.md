@@ -19,7 +19,7 @@ To run it, start a web server and open `index.html`. The preferred way to do thi
 python -m SimpleHTTPServer 8000
 ```
 
-Then, go to [http://localhost:8000](localhost:8000) to run the application. Output will be in the developer console of your browser.
+Then, go to [localhost:8000](http://localhost:8000) to run the application. Output will be in the developer console of your browser.
 
 ## Writing
 *Look at the `examples` directory for examples of various idiomatic constructs in fhtagn.*
