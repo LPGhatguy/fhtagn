@@ -46,3 +46,9 @@ The first instruction of a fhtagn program sets up the initial state of the progr
 Marker characters idiomatically progress in the order of `~`, `!`, `@`, `#`, `%`, `&`, and `=`. This matches the order of symbols on the top of a US keyboard while avoiding special symbols in regular expressions.
 
 fhtagn source files have the extension `.fht`. For use in existing editors, set your syntax highlighting to Ruby for the best editing experience.
+
+## Contributing
+Commit messages must contain only GitHub emoji.
+
+## License
+fhtagn is available under the MIT license. See `LICENSE.md` for more details.
